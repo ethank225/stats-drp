@@ -1,0 +1,7 @@
+.venv/
+nfl-big-data-bowl-2024/
+all_tracking_tackles_play.csv
+all_tracking_tackles_play_defense.csv
+all_tracking_tackles_play_filtered.csv
+organized_tracking_data.csv
+tackle_features_df.csvcleaned_data.csv
